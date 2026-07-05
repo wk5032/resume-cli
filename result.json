@@ -1,0 +1,12 @@
+{
+  "overall_score": 82,
+  "skill_score": 88,
+  "experience_score": 80,
+  "education_score": 75,
+  "comment": "候选人具备较好的全栈开发基础，技能与岗位要求较匹配，但缺少明确的大模型应用经验。",
+  "interview_questions": [
+    "请介绍一个你主导过的全栈项目，包括技术选型和架构设计。",
+    "你是否有调用大模型 API 的实际经验？请举例说明。",
+    "请谈谈你对 AI for Science 领域的理解。"
+  ]
+}
